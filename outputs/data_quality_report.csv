@@ -1,0 +1,247 @@
+subject_id,visit,lab_test,issue
+SITE-001-005,Baseline,Glucose,Missing laboratory result
+SITE-001-016,Baseline,Creatinine,Missing laboratory result
+SITE-001-016,Day 14,ALT,Missing laboratory result
+SITE-001-017,Day 7,ALT,Missing laboratory result
+SITE-002-005,Day 14,Glucose,Missing laboratory result
+SITE-002-020,Baseline,ALT,Missing laboratory result
+SITE-002-020,Day 14,Creatinine,Missing laboratory result
+SITE-003-012,Day 14,Glucose,Missing laboratory result
+SITE-003-013,Baseline,ALT,Missing laboratory result
+SITE-004-001,Day 7,AST,Missing laboratory result
+SITE-004-003,Day 14,AST,Missing laboratory result
+SITE-004-014,Day 14,Glucose,Missing laboratory result
+SITE-004-020,Day 7,Creatinine,Missing laboratory result
+SITE-005-002,Day 14,Creatinine,Missing laboratory result
+SITE-005-011,Day 7,AST,Missing laboratory result
+SITE-005-018,Day 14,AST,Missing laboratory result
+SITE-005-020,Baseline,AST,Missing laboratory result
+SITE-007-006,Day 14,ALT,Missing laboratory result
+SITE-007-006,Day 14,Creatinine,Missing laboratory result
+SITE-007-016,Day 14,Glucose,Missing laboratory result
+SITE-007-019,Baseline,Glucose,Missing laboratory result
+SITE-008-005,Day 14,Creatinine,Missing laboratory result
+SITE-008-007,Baseline,ALT,Missing laboratory result
+SITE-008-008,Baseline,AST,Missing laboratory result
+SITE-008-012,Day 14,AST,Missing laboratory result
+SITE-008-015,Day 14,AST,Missing laboratory result
+SITE-008-016,Baseline,Glucose,Missing laboratory result
+SITE-008-020,Baseline,Creatinine,Missing laboratory result
+SITE-009-010,Day 14,Creatinine,Missing laboratory result
+SITE-009-015,Baseline,ALT,Missing laboratory result
+SITE-009-015,Day 14,Glucose,Missing laboratory result
+SITE-010-004,Baseline,ALT,Missing laboratory result
+SITE-010-004,Day 7,AST,Missing laboratory result
+SITE-010-009,Day 14,ALT,Missing laboratory result
+SITE-001-006,Baseline,ALT,Outside reference range
+SITE-001-006,Day 7,Glucose,Outside reference range
+SITE-001-009,Baseline,AST,Outside reference range
+SITE-001-011,Baseline,ALT,Outside reference range
+SITE-001-014,Baseline,ALT,Outside reference range
+SITE-001-014,Day 7,ALT,Outside reference range
+SITE-001-015,Day 14,Creatinine,Outside reference range
+SITE-001-016,Baseline,Glucose,Outside reference range
+SITE-001-017,Day 14,ALT,Outside reference range
+SITE-001-018,Baseline,Glucose,Outside reference range
+SITE-001-018,Day 14,Creatinine,Outside reference range
+SITE-001-020,Day 14,Creatinine,Outside reference range
+SITE-002-001,Day 7,ALT,Outside reference range
+SITE-002-004,Day 14,ALT,Outside reference range
+SITE-002-008,Baseline,AST,Outside reference range
+SITE-002-008,Day 14,AST,Outside reference range
+SITE-002-014,Baseline,ALT,Outside reference range
+SITE-002-020,Day 14,Glucose,Outside reference range
+SITE-003-003,Day 7,Glucose,Outside reference range
+SITE-003-004,Day 7,ALT,Outside reference range
+SITE-003-004,Day 7,AST,Outside reference range
+SITE-003-004,Day 7,Glucose,Outside reference range
+SITE-003-007,Day 7,Creatinine,Outside reference range
+SITE-003-007,Day 14,Glucose,Outside reference range
+SITE-003-013,Day 7,Creatinine,Outside reference range
+SITE-003-014,Day 7,AST,Outside reference range
+SITE-003-016,Baseline,Glucose,Outside reference range
+SITE-003-016,Day 14,ALT,Outside reference range
+SITE-003-016,Day 14,Glucose,Outside reference range
+SITE-003-018,Day 7,Glucose,Outside reference range
+SITE-003-019,Day 14,AST,Outside reference range
+SITE-003-020,Day 14,ALT,Outside reference range
+SITE-004-001,Baseline,AST,Outside reference range
+SITE-004-005,Day 7,ALT,Outside reference range
+SITE-004-005,Day 14,Glucose,Outside reference range
+SITE-004-006,Baseline,Creatinine,Outside reference range
+SITE-004-006,Day 14,AST,Outside reference range
+SITE-004-009,Baseline,Creatinine,Outside reference range
+SITE-004-011,Day 7,ALT,Outside reference range
+SITE-004-012,Baseline,ALT,Outside reference range
+SITE-004-012,Day 7,Glucose,Outside reference range
+SITE-005-005,Day 14,Creatinine,Outside reference range
+SITE-005-005,Day 14,Glucose,Outside reference range
+SITE-005-007,Day 7,AST,Outside reference range
+SITE-005-007,Day 14,Creatinine,Outside reference range
+SITE-005-008,Baseline,Creatinine,Outside reference range
+SITE-005-009,Day 14,Glucose,Outside reference range
+SITE-005-011,Day 14,ALT,Outside reference range
+SITE-005-013,Baseline,AST,Outside reference range
+SITE-005-013,Day 14,Glucose,Outside reference range
+SITE-005-016,Baseline,AST,Outside reference range
+SITE-005-019,Day 14,ALT,Outside reference range
+SITE-006-007,Baseline,Glucose,Outside reference range
+SITE-006-008,Baseline,ALT,Outside reference range
+SITE-006-011,Baseline,Creatinine,Outside reference range
+SITE-006-012,Baseline,Creatinine,Outside reference range
+SITE-006-014,Day 14,ALT,Outside reference range
+SITE-006-016,Day 7,AST,Outside reference range
+SITE-006-017,Baseline,Creatinine,Outside reference range
+SITE-007-001,Baseline,Creatinine,Outside reference range
+SITE-007-001,Day 14,Creatinine,Outside reference range
+SITE-007-002,Day 7,AST,Outside reference range
+SITE-007-005,Baseline,ALT,Outside reference range
+SITE-007-006,Baseline,Creatinine,Outside reference range
+SITE-007-008,Day 7,Glucose,Outside reference range
+SITE-007-010,Baseline,ALT,Outside reference range
+SITE-007-012,Day 7,Creatinine,Outside reference range
+SITE-007-012,Day 14,ALT,Outside reference range
+SITE-007-014,Day 7,AST,Outside reference range
+SITE-007-016,Baseline,Glucose,Outside reference range
+SITE-007-016,Day 14,ALT,Outside reference range
+SITE-007-017,Day 7,ALT,Outside reference range
+SITE-008-001,Baseline,Creatinine,Outside reference range
+SITE-008-002,Baseline,Creatinine,Outside reference range
+SITE-008-002,Day 7,Glucose,Outside reference range
+SITE-008-005,Baseline,ALT,Outside reference range
+SITE-008-005,Baseline,AST,Outside reference range
+SITE-008-005,Baseline,Glucose,Outside reference range
+SITE-008-006,Day 7,Glucose,Outside reference range
+SITE-008-011,Baseline,ALT,Outside reference range
+SITE-008-011,Baseline,AST,Outside reference range
+SITE-008-011,Day 14,ALT,Outside reference range
+SITE-008-012,Day 7,AST,Outside reference range
+SITE-008-013,Day 7,ALT,Outside reference range
+SITE-008-013,Day 14,Glucose,Outside reference range
+SITE-008-015,Baseline,Creatinine,Outside reference range
+SITE-008-016,Day 7,ALT,Outside reference range
+SITE-008-017,Day 7,Glucose,Outside reference range
+SITE-009-001,Day 14,ALT,Outside reference range
+SITE-009-002,Baseline,Creatinine,Outside reference range
+SITE-009-002,Baseline,Glucose,Outside reference range
+SITE-009-004,Day 7,AST,Outside reference range
+SITE-009-005,Baseline,Glucose,Outside reference range
+SITE-009-012,Baseline,ALT,Outside reference range
+SITE-009-013,Day 14,ALT,Outside reference range
+SITE-009-014,Day 7,Creatinine,Outside reference range
+SITE-009-016,Day 14,Creatinine,Outside reference range
+SITE-009-019,Baseline,ALT,Outside reference range
+SITE-009-019,Day 7,Glucose,Outside reference range
+SITE-009-019,Day 14,ALT,Outside reference range
+SITE-009-020,Baseline,AST,Outside reference range
+SITE-010-005,Day 7,AST,Outside reference range
+SITE-010-005,Day 14,Glucose,Outside reference range
+SITE-010-006,Day 7,Creatinine,Outside reference range
+SITE-010-006,Day 14,Glucose,Outside reference range
+SITE-010-010,Baseline,Glucose,Outside reference range
+SITE-010-013,Baseline,Glucose,Outside reference range
+SITE-010-014,Day 14,AST,Outside reference range
+SITE-010-016,Day 7,Glucose,Outside reference range
+SITE-010-018,Baseline,Creatinine,Outside reference range
+SITE-010-019,Day 14,Creatinine,Outside reference range
+SITE-010-020,Baseline,Creatinine,Outside reference range
+SITE-010-020,Day 7,Creatinine,Outside reference range
+SITE-001-005,Baseline,ALT,Duplicate laboratory record
+SITE-003-005,Baseline,Glucose,Duplicate laboratory record
+SITE-005-018,Baseline,Creatinine,Duplicate laboratory record
+SITE-008-004,Baseline,AST,Duplicate laboratory record
+SITE-008-005,Day 7,ALT,Duplicate laboratory record
+SITE-009-002,Day 14,AST,Duplicate laboratory record
+SITE-001-002,Baseline,ALT,Expected laboratory record missing
+SITE-001-003,Day 14,AST,Expected laboratory record missing
+SITE-001-004,Baseline,AST,Expected laboratory record missing
+SITE-001-004,Day 7,AST,Expected laboratory record missing
+SITE-001-005,Day 14,AST,Expected laboratory record missing
+SITE-001-009,Day 14,ALT,Expected laboratory record missing
+SITE-001-009,Day 14,AST,Expected laboratory record missing
+SITE-001-012,Baseline,ALT,Expected laboratory record missing
+SITE-001-013,Baseline,Creatinine,Expected laboratory record missing
+SITE-001-015,Baseline,ALT,Expected laboratory record missing
+SITE-001-016,Day 14,Glucose,Expected laboratory record missing
+SITE-002-004,Day 7,Glucose,Expected laboratory record missing
+SITE-002-005,Day 7,Glucose,Expected laboratory record missing
+SITE-002-007,Day 14,Creatinine,Expected laboratory record missing
+SITE-002-007,Day 14,Glucose,Expected laboratory record missing
+SITE-002-013,Baseline,ALT,Expected laboratory record missing
+SITE-002-014,Day 14,Glucose,Expected laboratory record missing
+SITE-002-016,Day 7,ALT,Expected laboratory record missing
+SITE-002-019,Day 14,ALT,Expected laboratory record missing
+SITE-002-020,Day 7,AST,Expected laboratory record missing
+SITE-003-002,Day 14,ALT,Expected laboratory record missing
+SITE-003-003,Baseline,ALT,Expected laboratory record missing
+SITE-003-008,Baseline,ALT,Expected laboratory record missing
+SITE-003-008,Day 7,Creatinine,Expected laboratory record missing
+SITE-003-009,Day 14,Creatinine,Expected laboratory record missing
+SITE-003-010,Baseline,AST,Expected laboratory record missing
+SITE-003-012,Baseline,Glucose,Expected laboratory record missing
+SITE-003-013,Day 7,AST,Expected laboratory record missing
+SITE-003-014,Baseline,ALT,Expected laboratory record missing
+SITE-004-003,Baseline,AST,Expected laboratory record missing
+SITE-004-006,Day 7,Creatinine,Expected laboratory record missing
+SITE-004-008,Day 14,Glucose,Expected laboratory record missing
+SITE-004-008,Day 7,AST,Expected laboratory record missing
+SITE-004-010,Baseline,AST,Expected laboratory record missing
+SITE-004-011,Day 14,ALT,Expected laboratory record missing
+SITE-004-011,Day 14,AST,Expected laboratory record missing
+SITE-004-011,Day 14,Glucose,Expected laboratory record missing
+SITE-004-013,Day 7,AST,Expected laboratory record missing
+SITE-004-016,Day 14,ALT,Expected laboratory record missing
+SITE-004-019,Baseline,ALT,Expected laboratory record missing
+SITE-004-020,Baseline,Creatinine,Expected laboratory record missing
+SITE-005-005,Day 14,ALT,Expected laboratory record missing
+SITE-005-006,Baseline,AST,Expected laboratory record missing
+SITE-005-007,Day 14,ALT,Expected laboratory record missing
+SITE-005-009,Baseline,Creatinine,Expected laboratory record missing
+SITE-005-009,Day 7,AST,Expected laboratory record missing
+SITE-005-014,Baseline,Creatinine,Expected laboratory record missing
+SITE-005-014,Day 7,ALT,Expected laboratory record missing
+SITE-005-014,Day 7,Glucose,Expected laboratory record missing
+SITE-005-016,Baseline,Creatinine,Expected laboratory record missing
+SITE-005-019,Baseline,Creatinine,Expected laboratory record missing
+SITE-006-002,Day 14,AST,Expected laboratory record missing
+SITE-006-003,Baseline,Glucose,Expected laboratory record missing
+SITE-006-004,Baseline,AST,Expected laboratory record missing
+SITE-006-004,Baseline,Creatinine,Expected laboratory record missing
+SITE-006-005,Day 14,ALT,Expected laboratory record missing
+SITE-006-007,Day 14,AST,Expected laboratory record missing
+SITE-006-008,Baseline,Glucose,Expected laboratory record missing
+SITE-006-012,Day 14,AST,Expected laboratory record missing
+SITE-006-013,Day 14,Creatinine,Expected laboratory record missing
+SITE-006-013,Day 7,AST,Expected laboratory record missing
+SITE-006-015,Day 7,ALT,Expected laboratory record missing
+SITE-007-002,Baseline,ALT,Expected laboratory record missing
+SITE-007-003,Baseline,Glucose,Expected laboratory record missing
+SITE-007-004,Day 14,Creatinine,Expected laboratory record missing
+SITE-007-004,Day 7,ALT,Expected laboratory record missing
+SITE-007-005,Day 14,ALT,Expected laboratory record missing
+SITE-007-005,Day 14,Glucose,Expected laboratory record missing
+SITE-007-007,Day 7,Creatinine,Expected laboratory record missing
+SITE-007-008,Baseline,ALT,Expected laboratory record missing
+SITE-007-008,Day 14,ALT,Expected laboratory record missing
+SITE-007-009,Day 14,Glucose,Expected laboratory record missing
+SITE-007-013,Baseline,ALT,Expected laboratory record missing
+SITE-007-017,Baseline,ALT,Expected laboratory record missing
+SITE-007-019,Day 7,Glucose,Expected laboratory record missing
+SITE-008-001,Baseline,AST,Expected laboratory record missing
+SITE-008-009,Baseline,Creatinine,Expected laboratory record missing
+SITE-008-014,Baseline,ALT,Expected laboratory record missing
+SITE-008-014,Day 7,Creatinine,Expected laboratory record missing
+SITE-008-018,Day 7,Creatinine,Expected laboratory record missing
+SITE-008-020,Baseline,ALT,Expected laboratory record missing
+SITE-009-002,Day 7,Creatinine,Expected laboratory record missing
+SITE-009-003,Day 7,Creatinine,Expected laboratory record missing
+SITE-009-008,Day 14,ALT,Expected laboratory record missing
+SITE-009-011,Day 7,AST,Expected laboratory record missing
+SITE-009-015,Baseline,AST,Expected laboratory record missing
+SITE-009-016,Day 14,ALT,Expected laboratory record missing
+SITE-009-019,Day 7,ALT,Expected laboratory record missing
+SITE-009-019,Day 7,AST,Expected laboratory record missing
+SITE-010-005,Baseline,AST,Expected laboratory record missing
+SITE-010-008,Day 14,Creatinine,Expected laboratory record missing
+SITE-010-012,Day 7,AST,Expected laboratory record missing
+SITE-010-014,Day 14,Glucose,Expected laboratory record missing
